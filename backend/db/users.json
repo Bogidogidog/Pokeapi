@@ -1,0 +1,163 @@
+[
+  {
+    "id": "406e55fa-c0ca-4430-b8df-e0e56673bdcc",
+    "name": "bogi",
+    "username": "bogi",
+    "password": "1234",
+    "pokedex": [],
+    "pokemons": [
+      "https://pokeapi.co/api/v2/pokemon/charizard",
+      "https://pokeapi.co/api/v2/pokemon/charizard",
+      "https://pokeapi.co/api/v2/pokemon/charizard",
+      "https://pokeapi.co/api/v2/pokemon/squirtle",
+      "https://pokeapi.co/api/v2/pokemon/charizard",
+      "https://pokeapi.co/api/v2/pokemon/charizard",
+      "https://pokeapi.co/api/v2/pokemon/458/",
+      "https://pokeapi.co/api/v2/pokemon/charizard",
+      "https://pokeapi.co/api/v2/pokemon/215/",
+      "https://pokeapi.co/api/v2/pokemon/54/"
+    ]
+  },
+  {
+    "id": "be8c7a1b-956c-4b27-9de6-74bd9a1d6d2e",
+    "name": "angi",
+    "username": "angi",
+    "password": "1234",
+    "pokedex": [],
+    "pokemons": [
+      "https://pokeapi.co/api/v2/pokemon/charizard",
+      "https://pokeapi.co/api/v2/pokemon/74/",
+      "https://pokeapi.co/api/v2/pokemon/bulbasaur",
+      "https://pokeapi.co/api/v2/pokemon/bulbasaur",
+      "https://pokeapi.co/api/v2/pokemon/charizard",
+      "https://pokeapi.co/api/v2/pokemon/54/",
+      "https://pokeapi.co/api/v2/pokemon/399/"
+    ]
+  },
+  {
+    "id": "8cde99ce-5d81-4562-afd9-25ba1557ab7c",
+    "name": "Karim",
+    "username": "kimo",
+    "password": "1234",
+    "pokedex": [],
+    "pokemons": []
+  },
+  {
+    "id": "6f3290fa-8265-444b-8cab-06fd9780a0e8",
+    "name": "aleks",
+    "username": "aleks",
+    "age": "26",
+    "gender": "m",
+    "password": "1234",
+    "pokedex": [],
+    "pokemons": [
+      "https://pokeapi.co/api/v2/pokemon/bulbasaur",
+      "https://pokeapi.co/api/v2/pokemon/458/",
+      "https://pokeapi.co/api/v2/pokemon/370/"
+    ]
+  },
+  {
+    "id": "f7f7ea46-2500-4a8f-84af-32ba704cbf68",
+    "name": "ali",
+    "username": "ali",
+    "age": "27",
+    "gender": "m",
+    "password": "1234",
+    "pokedex": [],
+    "pokemons": [
+      "https://pokeapi.co/api/v2/pokemon/charizard",
+      "https://pokeapi.co/api/v2/pokemon/443/"
+    ]
+  },
+  {
+    "id": "20f20f60-c372-42d1-98da-6ed5574b841e",
+    "name": "new",
+    "username": "new",
+    "age": "m",
+    "gender": "23",
+    "password": "1234",
+    "pokedex": [],
+    "pokemons": [
+      "https://pokeapi.co/api/v2/pokemon/charizard",
+      "https://pokeapi.co/api/v2/pokemon/charizard",
+      "https://pokeapi.co/api/v2/pokemon/436/"
+    ]
+  },
+  {
+    "id": "675080f1-c232-49b5-92b0-c5c52991f1db",
+    "name": "kiki",
+    "username": "kiki",
+    "age": "22",
+    "gender": "w",
+    "password": "1234",
+    "pokedex": [],
+    "pokemons": [
+      "https://pokeapi.co/api/v2/pokemon/charizard",
+      "https://pokeapi.co/api/v2/pokemon/279/"
+    ]
+  },
+  {
+    "id": "343519b2-0aca-4978-8213-b96710947584",
+    "name": "nati",
+    "username": "nati",
+    "age": "22",
+    "gender": "w",
+    "password": "1234",
+    "pokedex": [],
+    "pokemons": [
+      "https://pokeapi.co/api/v2/pokemon/charizard",
+      "https://pokeapi.co/api/v2/pokemon/41/"
+    ]
+  },
+  {
+    "id": "f0f0792a-1269-44c1-a81e-17e0f52959a6",
+    "name": "asd",
+    "username": "asd",
+    "age": "12",
+    "gender": "12",
+    "password": "1234",
+    "pokedex": [],
+    "pokemons": [
+      "https://pokeapi.co/api/v2/pokemon/charizard"
+    ]
+  },
+  {
+    "id": "dc993e16-d648-41f2-8be3-e877fbd39b98",
+    "name": "asd2",
+    "username": "asdf",
+    "age": "123",
+    "gender": "123",
+    "password": "1234",
+    "pokedex": [],
+    "pokemons": [
+      "https://pokeapi.co/api/v2/pokemon/bulbasaur"
+    ]
+  },
+  {
+    "id": "7fa3cd96-f284-4945-bff0-0c6af89a3887",
+    "name": "alev",
+    "username": "alev",
+    "age": "30",
+    "gender": "w",
+    "password": "1234",
+    "pokedex": [],
+    "pokemons": [
+      "https://pokeapi.co/api/v2/pokemon/charizard",
+      "https://pokeapi.co/api/v2/pokemon/436/",
+      "https://pokeapi.co/api/v2/pokemon/54/"
+    ]
+  },
+  {
+    "id": "d4c8b035-d84b-45fe-acb8-9df442172397",
+    "name": "123",
+    "username": "123",
+    "age": "21",
+    "gender": "asd",
+    "password": "123",
+    "pokedex": [],
+    "pokemons": [
+      "https://pokeapi.co/api/v2/pokemon/charizard",
+      "https://pokeapi.co/api/v2/pokemon/298/"
+    ]
+  }
+]
